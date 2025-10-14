@@ -1,0 +1,2 @@
+"unique_id","Study","Effect_ID","n_Treat","n_CK","Effect_Size_lnRR","Percent_Change","Variance","Outlier_Reason"
+"3_3","3","3",6,6,0.594259179407736,81.1688311688312,0.00386970211047163,"IQR-based on yi"

@@ -1,0 +1,5 @@
+"Outcome","Model","k_Studies","n_Observations","n_Outliers","Pooled_Effect_lnRR","Percent_Change","CI_Lower_95","CI_Upper_95","SE","Z_value","P_value","Tau2","I2_percent","Cochran_Q","Q_P_value","Egger_Z","Egger_P","Trimfill_Studies"
+"Sugar","Nested (All Data)",3,43,0,0.0686,7.1,-0.0387,0.1759,0.0547,1.2531,0.2102,0.0164,89.99,361.8601,0,NA,NA,NA
+"Sugar","Nested (Outliers Removed)",3,43,0,0.0686,7.1,-0.0387,0.1759,0.0547,1.2531,0.2102,0.0164,89.99,361.8601,0,NA,NA,NA
+"Sugar","Study-Level (All Data)",3,3,0,0.0696,7.2,-0.0265,0.1656,0.049,1.4195,0.1558,0.0052,72.65,7.7894,0.0203,1.1007,0.271,0
+"Sugar","Study-Level (Outliers Removed)",3,3,0,0.0696,7.2,-0.0265,0.1656,0.049,1.4195,0.1558,0.0052,72.65,7.7894,0.0203,1.1007,0.271,0

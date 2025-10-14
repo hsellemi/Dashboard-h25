@@ -1,0 +1,4 @@
+"Outcome","Model","k_Studies","n_Observations","n_Outliers","Pooled_Effect_lnRR","Percent_Change","CI_Lower_95","CI_Upper_95","SE","Z_value","P_value","Tau2","I2_percent","Cochran_Q","Q_P_value","Egger_Z","Egger_P","Trimfill_Studies"
+"Lyco","Nested (All Data)",4,101,1,0.0872,9.11,0.0787,0.0957,0.0043,20.1503,0,0.0017,88.88,1971.5356,0,NA,NA,NA
+"Lyco","Nested (Outliers Removed)",4,100,1,0.0853,8.91,0.0776,0.0931,0.004,21.6022,0,0.0014,86.52,1670.5432,0,NA,NA,NA
+"Lyco","Study-Level (Outliers Removed)",4,4,1,0.081,8.44,0.062,0.1,0.0097,8.3608,0,3e-04,76.54,12.0412,0.0072,-0.289,0.7726,0

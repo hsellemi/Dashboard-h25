@@ -1,0 +1,6 @@
+"Outcome","Moderator","Moderator_Display","Dataset","n_Levels","Omnibus_QM","Omnibus_P","Significant_Levels","Range_B_Coefficient","Range_Effect_Percent"
+"MWP","GMC","Mulch color","No Outliers",2,9.6614,0.008,1,"0.072 to 0.193","7.5 to 21.2"
+"MWP","GST","Soil texture","No Outliers",3,12.7207,0.0053,1,"-0.042 to 0.159","-4.1 to 17.2"
+"MWP","GSOM","Soil organic matter","No Outliers",2,8.8141,0.0122,1,"0.034 to 0.23","3.4 to 25.9"
+"MWP","Gbd","Soil bulk density","No Outliers",2,7.3054,0.0259,1,"0.047 to 0.166","4.8 to 18"
+"MWP","GN","Nitrogen","No Outliers",3,22.7027,0,1,"0.009 to 0.216","0.9 to 24.1"

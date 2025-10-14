@@ -1,0 +1,5 @@
+"Outcome","Model","k_Studies","n_Observations","n_Outliers","Pooled_Effect_lnRR","Percent_Change","CI_Lower_95","CI_Upper_95","SE","Z_value","P_value","Tau2","I2_percent","Cochran_Q","Q_P_value","Egger_Z","Egger_P","Trimfill_Studies"
+"SAR","Nested (All Data)",6,105,1,0.1829,20.07,0.0694,0.2965,0.0579,3.1585,0.0016,0.0262,94.4,10462.7589,0,NA,NA,NA
+"SAR","Nested (Outliers Removed)",6,104,1,0.1786,19.55,0.068,0.2891,0.0564,3.1661,0.0015,0.0247,94.16,10402.7952,0,NA,NA,NA
+"SAR","Study-Level (All Data)",6,6,1,0.1852,20.35,0.0659,0.3045,0.0609,3.0428,0.0023,0.021,98.71,470.2934,0,0.4102,0.6817,0
+"SAR","Study-Level (Outliers Removed)",6,6,1,0.1801,19.73,0.0641,0.296,0.0592,3.0441,0.0023,0.0198,98.64,466.3349,0,0.3377,0.7356,0

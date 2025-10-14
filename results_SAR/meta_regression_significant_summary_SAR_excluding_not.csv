@@ -1,0 +1,7 @@
+"Outcome","Moderator","Moderator_Display","Dataset","n_Levels","Omnibus_QM","Omnibus_P","Significant_Levels","Range_B_Coefficient","Range_Effect_Percent"
+"SAR","GMM","Mulch material","No Outliers",2,9.5813,0.0083,2,"0.178 to 0.179","19.5 to 19.6"
+"SAR","GMC","Mulch color","No Outliers",3,12.0076,0.0074,3,"0.165 to 0.231","17.9 to 26"
+"SAR","Arragement","Arragement","No Outliers",2,18.665,1e-04,1,"-0.019 to 0.216","-1.9 to 24.2"
+"SAR","GST","Soil texture","No Outliers",2,11.8807,0.0026,1,"0.116 to 0.242","12.3 to 27.4"
+"SAR","Gbd","Soil bulk density","No Outliers",2,20.8003,0,2,"0.116 to 0.311","12.3 to 36.4"
+"SAR","GN","Nitrogen","No Outliers",3,51.8121,0,2,"0.1 to 0.312","10.5 to 36.6"

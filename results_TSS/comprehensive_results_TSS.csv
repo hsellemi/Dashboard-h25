@@ -1,0 +1,3 @@
+"Outcome","Model","k_Studies","n_Observations","n_Outliers","Pooled_Effect_lnRR","Percent_Change","CI_Lower_95","CI_Upper_95","SE","Z_value","P_value","Tau2","I2_percent","Cochran_Q","Q_P_value","Egger_Z","Egger_P","Trimfill_Studies"
+"TSS","Nested (All Data)",13,184,5,0.0942,9.88,0.0358,0.1526,0.0298,3.1627,0.0016,0.0157,80.9,1294.2488,0,NA,NA,NA
+"TSS","Nested (Outliers Removed)",13,179,5,0.0833,8.69,0.043,0.1237,0.0206,4.0446,1e-04,0.0095,72.4,1030.7162,0,NA,NA,NA

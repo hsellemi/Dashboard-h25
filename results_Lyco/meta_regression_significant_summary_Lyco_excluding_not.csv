@@ -1,0 +1,7 @@
+"Outcome","Moderator","Moderator_Display","Dataset","n_Levels","Omnibus_QM","Omnibus_P","Significant_Levels","Range_B_Coefficient","Range_Effect_Percent"
+"Lyco","GMC","Mulch color","No Outliers",2,412.0749,0,2,"0.055 to 0.086","5.6 to 9"
+"Lyco","GST","Soil texture","No Outliers",2,486.9504,0,2,"0.055 to 0.087","5.6 to 9.1"
+"Lyco","Gbd","Soil bulk density","No Outliers",2,486.9504,0,2,"0.055 to 0.087","5.6 to 9.1"
+"Lyco","GCLI","Climate zone","No Outliers",2,486.9504,0,2,"0.055 to 0.087","5.6 to 9.1"
+"Lyco","GSRain","Rainfall","No Outliers",2,463.3372,0,2,"0.084 to 0.088","8.8 to 9.2"
+"Lyco","GN","Nitrogen","No Outliers",2,138.984,0,2,"0.077 to 0.09","8 to 9.4"

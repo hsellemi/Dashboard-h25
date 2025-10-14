@@ -1,0 +1,10 @@
+"Outcome","Outcome_Label","k_Studies","n_Observations","Percent_Change","CI_Lower_Percent","CI_Upper_Percent","P_value","I2_percent","Tau2"
+"SAR","Sugar-acid ratio",6,104,19.55,7.04,33.52,0.0015,94.16,0.0247
+"TWP","Total water productivity",13,138,15.19,5.87,25.35,0.001,92.79,0.0324
+"VC","Vitamin C",7,142,12.92,10.9,14.98,0,74.82,0.0025
+"TY","Total yield",44,375,11.36,3.6,19.7,0.0035,93,0.0816
+"MY","Marketable yield",42,492,10.34,0.83,20.76,0.0324,97.77,0.1428
+"MWP","Marketable water productivity",8,77,9.93,1.95,18.54,0.0138,98.59,0.0252
+"Lyco","Lycopene",4,100,8.91,8.07,9.76,0,86.52,0.0014
+"TSS","Total soluble solids",13,179,8.69,4.39,13.17,1e-04,72.4,0.0095
+"pH","pH",3,15,-2.19,-3.35,-1.01,3e-04,99.82,6e-04

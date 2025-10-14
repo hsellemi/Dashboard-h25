@@ -1,0 +1,5 @@
+"Outcome","Model","k_Studies","n_Observations","n_Outliers","Pooled_Effect_lnRR","Percent_Change","CI_Lower_95","CI_Upper_95","SE","Z_value","P_value","Tau2","I2_percent","Cochran_Q","Q_P_value","Egger_Z","Egger_P","Trimfill_Studies"
+"pH","Nested (All Data)",3,15,0,-0.0221,-2.19,-0.0341,-0.0102,0.0061,-3.6205,3e-04,6e-04,99.82,7907.3488,0,NA,NA,NA
+"pH","Nested (Outliers Removed)",3,15,0,-0.0221,-2.19,-0.0341,-0.0102,0.0061,-3.6205,3e-04,6e-04,99.82,7907.3488,0,NA,NA,NA
+"pH","Study-Level (All Data)",3,3,0,-0.0167,-1.66,-0.0294,-0.0041,0.0065,-2.5854,0.0097,1e-04,99.21,253.5432,0,NA,NA,NA
+"pH","Study-Level (Outliers Removed)",3,3,0,-0.0167,-1.66,-0.0294,-0.0041,0.0065,-2.5854,0.0097,1e-04,99.21,253.5432,0,NA,NA,NA

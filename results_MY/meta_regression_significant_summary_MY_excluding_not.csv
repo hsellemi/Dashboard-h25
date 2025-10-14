@@ -1,0 +1,6 @@
+"Outcome","Moderator","Moderator_Display","Dataset","n_Levels","Omnibus_QM","Omnibus_P","Significant_Levels","Range_B_Coefficient","Range_Effect_Percent"
+"MY","GMC","Mulch color","No Outliers",4,13.0286,0.0111,1,"-0.195 to 0.287","-17.7 to 33.3"
+"MY","Arragement","Arragement","No Outliers",2,6.3506,0.0418,1,"0.091 to 0.228","9.5 to 25.6"
+"MY","GpH","Soil pH","No Outliers",2,6.9679,0.0307,0,"-0.09 to 0.109","-8.6 to 11.5"
+"MY","GSRain","Rainfall","No Outliers",3,20.8289,1e-04,1,"-0.292 to 0.057","-25.3 to 5.9"
+"MY","Continent","Continent","No Outliers",5,30.5118,0,3,"-0.217 to 0.418","-19.5 to 51.9"
