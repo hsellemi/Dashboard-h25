@@ -1501,6 +1501,12 @@
       "skillPath": "drclaw/local_skill_hub/science/physics/signal_processing/SKILL.md",
       "computedHash": "e5338f4dc0c163e3bd75520a6260c2fd0b317197cc8309d117d82da55c6471c9"
     },
+    "skill-auditor": {
+      "source": "aipoch/medical-research-skills",
+      "sourceType": "github",
+      "skillPath": "skill-auditor/SKILL.md",
+      "computedHash": "759d70b2a28ead3fef87301e45a711685b458ab882e04f57930a940b8dd3c1a4"
+    },
     "skill-creator": {
       "source": "langchain-ai/deepagents",
       "sourceType": "github",
