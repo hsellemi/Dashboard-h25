@@ -1,11 +1,1007 @@
 {
   "version": 1,
   "skills": {
+    "academic-deep-research": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/search/academic-deep-research-1-0-0/SKILL.md",
+      "computedHash": "2c63b3f296a070e78060b6296034fc7b0dfb1db67ee034a37f8f8ff4f93ff4f7"
+    },
+    "acpx": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/acpx/SKILL.md",
+      "computedHash": "c8ec641399ee56b6659aed39212463687551e0163ccd5d4e5cbe6c1554187f14"
+    },
+    "admet_druglikeness_report": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/admet_druglikeness_report/SKILL.md",
+      "computedHash": "4ab54f2d56f465b002750b489a5a23385166352b1a752ad785a3f50e3e4361db"
+    },
+    "affinity_maturation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/affinity_maturation/SKILL.md",
+      "computedHash": "531ea2372b5d51655b3785f823b569f989052f7e4900bbf4c770844ece155f17"
+    },
+    "alanine_scanning_pipeline": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/alanine_scanning_pipeline/SKILL.md",
+      "computedHash": "dab6c5b554264ef5301446e319443c48bad5b5c8c4d2987fbe20e308a8bec8db"
+    },
+    "aliphatic_ring_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/aliphatic_ring_analysis/SKILL.md",
+      "computedHash": "7da2fcaf89e46ea34cdbc5a4ccba7981dc6982ad5ab43f7c9adea51d0f7d613e"
+    },
+    "alphafold_structure_pipeline": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/alphafold_structure_pipeline/SKILL.md",
+      "computedHash": "d57336051d061e38bcb0cf36e064d164279fa01a8ad47fb15ee7a456c22cd78d"
+    },
+    "antibody_drug_development": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/antibody_drug_development/SKILL.md",
+      "computedHash": "057fed214c5706a6e9a404ca51af2325fe2091bfc9c7ad0f6f59aae76df14ea0"
+    },
+    "antibody_target_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/antibody_target_analysis/SKILL.md",
+      "computedHash": "56c430bde3c8a8fdbf70b0261c89e5c435871924b1dcc5a45c41aa7487ae5ef3"
+    },
+    "arxiv-watcher": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/search/arxiv-watcher-1-0-0/SKILL.md",
+      "computedHash": "38b02300543ff70f27ab0764ed4bf21d91d00b3d4c6a784c3dffaacbe27749ab"
+    },
+    "atc_drug_classification": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/atc_drug_classification/SKILL.md",
+      "computedHash": "7aa8786e180afed7407f5587c3b06b6d7dd45b87dc28ee6d9f907faf8d1e4639"
+    },
+    "atmospheric-science-calculations": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/earth/atmospheric-science-calculations/SKILL.md",
+      "computedHash": "b7bc654d8a152dc53d511c4994ec37d10950f5879a014fc3c838698b05947846"
+    },
+    "binding_site_characterization": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/binding_site_characterization/SKILL.md",
+      "computedHash": "2ebc23739bba2b45c008ec4ec47ea8fc5cf4b789d1a204b3ac099fd7859e66a0"
+    },
+    "bioassay_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/bioassay_analysis/SKILL.md",
+      "computedHash": "78cd8ab1b7bd779efda1366706db5ff09436511385f5124665d3491647651ac3"
+    },
+    "biomarker_discovery": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/biomarker_discovery/SKILL.md",
+      "computedHash": "8f1e714a04cd932eaac8eb74c93eb628a6df1329290a83e1da7823c90d8032af"
+    },
+    "biomedical-web-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/search/biomedical-web-search/SKILL.md",
+      "computedHash": "a6d9cf2efb70668c278c45eaff9dfddc797be706dee664c822265d8c87824d6a"
+    },
+    "biosample_genomics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/biosample_genomics/SKILL.md",
+      "computedHash": "30142760a4c6716fe31157c6fff884efe49fb34dca85d1a55a19b793b3d95103"
+    },
+    "blast_protein_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/blast_protein_analysis/SKILL.md",
+      "computedHash": "75f00eb94bfadd94afdf9d726dc2ef0a23505433db4ce4ac00134f836830cea7"
+    },
+    "boltz2-binding-affinity": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/boltz2-binding-affinity/SKILL.md",
+      "computedHash": "6f62db430c6f80ab4d890f1dfd5cc10ba90257716fd4fe41d618a06e35eaa570"
+    },
+    "buoyancy-acceleration-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/buoyancy-acceleration-calculation/SKILL.md",
+      "computedHash": "6d15fcca05e41a63cc5105cfb7f7b53b93be556fe67c9404fd73f1a3fbd6f4d4"
+    },
+    "cancer_therapy_design": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/cancer_therapy_design/SKILL.md",
+      "computedHash": "f8f6bf3a13b0a64a83570e46907b88cd201653159bbd539b2b77a462855f640b"
+    },
+    "capacitance-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/capacitance-calculation/SKILL.md",
+      "computedHash": "f58fb7d55817dd262df9483d763ee827cc84837acfe9b69c6806446012db0807"
+    },
+    "cas_compound_lookup": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/cas_compound_lookup/SKILL.md",
+      "computedHash": "5356117f6ee3ff5ca51a4fe97e0a278f3ced8abcfd01d0d341246c753aefa31b"
+    },
+    "cell_line_assay_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/cell_line_assay_analysis/SKILL.md",
+      "computedHash": "5a66c3f56002e4000570d7a6115c393dca7006cf67b21ea1a4a6d1d2dce77974"
+    },
+    "check-review-alignment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/check-review-alignment/SKILL.md",
+      "computedHash": "35be01da6864b969b4997078775db8b27392832ada56efa7b1573db1c7665926"
+    },
+    "chembl-molecule-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/chembl-molecule-search/SKILL.md",
+      "computedHash": "37be293387e979c127d1a680986580253fcbe3894003b283fcac7d9561f52138"
+    },
+    "chemical-mass-percent-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/chemical-mass-percent-calculation/SKILL.md",
+      "computedHash": "d7acda44fdd33625fc03d856ab3e827dbe27036c322933a5b2facb2f45c827d8"
+    },
+    "chemical-structure-analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/chemical-structure-analysis/SKILL.md",
+      "computedHash": "869874b1bd707e426a81604c1debf965ce538d46ea1adf89545d2421d70be5f2"
+    },
+    "chemical_patent_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/chemical_patent_analysis/SKILL.md",
+      "computedHash": "1c8c010a7edf79299c64e6619440f4a471cde62567d44ed197d3c72d3eff3c8c"
+    },
+    "chemical_property_profiling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/chemical_property_profiling/SKILL.md",
+      "computedHash": "fc7fb6ae586c164ade8b3b2aee371353aa3418909e93fa73e9094c258f012ee7"
+    },
+    "chemical_safety_assessment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/chemical_safety_assessment/SKILL.md",
+      "computedHash": "cf32cb7875d71bfe6551d45e1fcaaa71c6a389e04b05695e89023c60abaa5e0b"
+    },
+    "chemical_structure_comparison": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/chemical_structure_comparison/SKILL.md",
+      "computedHash": "b9bab1dd7cae6d31a55758e6504b932dc1cb9b99ad0b8788dba734a2cec21904"
+    },
+    "chromosome_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/chromosome_analysis/SKILL.md",
+      "computedHash": "fd1feb694d0611b6575a4fb93f1f40c7e815f415ab5ce1ab26cf7ebfb2cdd510"
+    },
+    "claude-code": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/code/claude-code-1.0.0/SKILL.md",
+      "computedHash": "3e7a55fbdbb445c27b143248cdbabd28aa8e6bd8fa695fad74b39fb5e7d702ab"
+    },
+    "claude-code-skill": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/code/claude-code-skill/SKILL.md",
+      "computedHash": "d235cdb024f909af910e065b5dd5dd6e2261e2e33d6a1fe3b9ee3bc235a9d706"
+    },
+    "clawhub": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/clawhub/SKILL.md",
+      "computedHash": "a038608dd44acce15a7d49b696db3e8dc79d3f5d8cec022022d514b80a32ba75"
+    },
+    "clinical_pharmacology_report": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/clinical_pharmacology_report/SKILL.md",
+      "computedHash": "8087ae2462b5e81d599e8831aeb9c8f33b59d1acc5957b55ac06f107c3d360ce"
+    },
+    "clinical_trial_drug_profile": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/clinical_trial_drug_profile/SKILL.md",
+      "computedHash": "0fd59a70aade92869c6da329c8469adc3b00620d6b217696eed15e6405553d3f"
+    },
+    "code_execution_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/code_execution_analysis/SKILL.md",
+      "computedHash": "8768e1cc12ceabbabefba476e7e3037ec0633a7c1d99c96ef786d9ab24f0e35b"
+    },
+    "combinatorial_chemistry": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/combinatorial_chemistry/SKILL.md",
+      "computedHash": "708890bcb5996e5609c1b07f35916e4b15646299194a7ee5f3bdc9898831b4b6"
+    },
+    "comparative_drug_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/comparative_drug_analysis/SKILL.md",
+      "computedHash": "93681539caf7bc832487cc3301fcac82ffadf0a2bcf1e6317f693ad10ac1d5a8"
+    },
+    "complete-example": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/complete_example/SKILL.md",
+      "computedHash": "9666961bccd04b2b45d91a5c24f5c577fda8b20f9a01964efa73dc7f7bdc69f4"
+    },
+    "compound-name-retrieval": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/compound-name-retrieval/SKILL.md",
+      "computedHash": "38723b041292e07a07fa36c43d305d1ff7d177c99d7aab1e5c9239eaaf0afa07"
+    },
+    "compound_database_crossref": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/compound_database_crossref/SKILL.md",
+      "computedHash": "4db6631c52046e2ebb9b636e31267c2afc099e94de8590387f3601c645afc074"
+    },
+    "compound_to_drug_pipeline": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/compound_to_drug_pipeline/SKILL.md",
+      "computedHash": "5ba9a410f1568f2571e7cd8ee75959a7c4d56a7430abd33fc0c39cff3d466cef"
+    },
+    "comprehensive-protein-analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/comprehensive-protein-analysis/SKILL.md",
+      "computedHash": "eb1684958fc3ba596afbac0ba52fa6c5ff78a91ef57100fa5516dd6a520894a7"
+    },
+    "comprehensive-variant-annotation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/comprehensive-variant-annotation/SKILL.md",
+      "computedHash": "4bbe45dc3735366e416be27990ee8d4d56ac46c722670e1642a210371798e16a"
+    },
+    "cron": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/cron/SKILL.md",
+      "computedHash": "7f131802ea7c2f5e3e7350630e5290bd1b89435edaf9c285c89fa6a1032c45c9"
+    },
+    "cross_species_genomics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/cross_species_genomics/SKILL.md",
+      "computedHash": "893fd87478cfaa5422bff317d69378a52b84ca1cf7d4e3adde3f42f25f42d284"
+    },
+    "disease-reversal-prediction": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/disease-reversal-prediction/SKILL.md",
+      "computedHash": "d470815a9232bf6d1e65facbdf94efd7ddc167744bbe25365b7d88dcc292ff12"
+    },
+    "disease_compound_pipeline": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/disease_compound_pipeline/SKILL.md",
+      "computedHash": "c49b1b2acac7b1cee904cf59141863b6eb900d8799d91b95d201f15df31025b0"
+    },
+    "disease_drug_landscape": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/disease_drug_landscape/SKILL.md",
+      "computedHash": "d7a2e0a2ba1fc4b6ed8439a9d6372c1af5c06a22e2110d605f1483e30d57ab43"
+    },
+    "disease_knowledge_graph": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/disease_knowledge_graph/SKILL.md",
+      "computedHash": "bd0924f18db61dd8633d8c9f1e8f3425f373e3065cc5cd5eabac31097ee733c4"
+    },
+    "disease_protein_profiling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/disease_protein_profiling/SKILL.md",
+      "computedHash": "ad9b3f2e2054fc9e2da32d31e68e006ed1001116557a7649147d28ff4fda7e86"
+    },
+    "dna-rna-sequence-analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/dna-rna-sequence-analysis/SKILL.md",
+      "computedHash": "f4ef0d630f4bb06174fbd6200aff9746053fc177266cca6b1ccf1801880f11ca"
+    },
     "docx": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/docx/SKILL.md",
       "computedHash": "6962db07127ee540a56e4677f65576d0727668a1d67f7da8bc978f10791c2bfe"
+    },
+    "drug-screening-docking": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug-screening-docking/SKILL.md",
+      "computedHash": "316dc1833b28545e48c37e13071c0915510738d2efe1e71d9c16eb1dc8f5b637"
+    },
+    "drug_indication_mapping": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_indication_mapping/SKILL.md",
+      "computedHash": "0881eea8ea67654578eccbdcaf426277b46b82b0a94fcb46805065a0e07e8438"
+    },
+    "drug_interaction_checker": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_interaction_checker/SKILL.md",
+      "computedHash": "db45d0c24160ce7db78b9b5b4fb709f68db7f489cae46d8b9d3f416d09efe5cb"
+    },
+    "drug_metabolism_study": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_metabolism_study/SKILL.md",
+      "computedHash": "3a1961ca637b77bbcdadc04030d975f1cd50ca2d76af2d49422b4862e8400646"
+    },
+    "drug_repurposing_screen": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_repurposing_screen/SKILL.md",
+      "computedHash": "3dce38178dca343c75fa9060a27481b62313f768741232c62c1ed90897180323"
+    },
+    "drug_safety_profile": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_safety_profile/SKILL.md",
+      "computedHash": "b538990d99bf2cf5e2b669f6005537165abffc07fd7353cf1ceec1ba82c48e6b"
+    },
+    "drug_target_identification": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_target_identification/SKILL.md",
+      "computedHash": "cafa3407e025f5b3ea76aa998465ef8f804bc3cf30c5ebc93039682c54b8ceb5"
+    },
+    "drug_target_structure": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_target_structure/SKILL.md",
+      "computedHash": "3ac79a6b4187d985af18bf3eac4efa3bf7a87e6e5b2c1fd3282141f953e12dd3"
+    },
+    "drug_warning_report": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drug_warning_report/SKILL.md",
+      "computedHash": "befe9a29b80ee48c5f1fe4ac495af32d07b8f020cf4fc58158957d1efcd293fc"
+    },
+    "drugsda-admet": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-admet/SKILL.md",
+      "computedHash": "cd04686a98f9fecd1011bb2c3d6cd199961b36936a17f4ec93d0fdb14ef2735a"
+    },
+    "drugsda-compound-retrieve": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-compound-retrieve/SKILL.md",
+      "computedHash": "0a0eef995f2ab9fb8aa490971809f5b8ef63ff0685284eaec684a8e6ef49868c"
+    },
+    "drugsda-data-valid": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-data-valid/SKILL.md",
+      "computedHash": "cea47bd27fb9c77e77064d71b798df66228fe0e087d0ca9ac853dfaa5add9158"
+    },
+    "drugsda-denovo-sampling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-denovo-sampling/SKILL.md",
+      "computedHash": "914e4140fac6fc1d61fd1ef4c5140dcb6ccc21c40f25592d3f75c8c74a6c7863"
+    },
+    "drugsda-dleps": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-dleps/SKILL.md",
+      "computedHash": "ec96459641d73897861b215c6c875054850cff57dacfbd57b6eb3a34001c95bd"
+    },
+    "drugsda-drug-likeness": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-drug-likeness/SKILL.md",
+      "computedHash": "7d3c010b783e2ad933057f3fe6bba60f7e5bc20271f7f6ae0087b7cbd7b256c0"
+    },
+    "drugsda-esmfold": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-esmfold/SKILL.md",
+      "computedHash": "338d0f05058f867026bd8c26d57af51d753acf49f4866e37743360d53d9b5f87"
+    },
+    "drugsda-file-transfer": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-file-transfer/SKILL.md",
+      "computedHash": "37971b7874260f0d104af37b6f7f74483567d24297b9d8c4eb9f008d02db9392"
+    },
+    "drugsda-linker-sampling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-linker-sampling/SKILL.md",
+      "computedHash": "b56b280b1bb50e6d87bcd728f0afa164692c91373f5f549058f27c098e8c8671"
+    },
+    "drugsda-mol-properties": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-mol-properties/SKILL.md",
+      "computedHash": "148253ffca7fdd65c0cdba119724cc5ae85a9ff11ae23e187cc57906ff1403c2"
+    },
+    "drugsda-mol-similarity": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-mol-similarity/SKILL.md",
+      "computedHash": "9363cd059e5dca8320fd32ed0877e7e0059735a92e8f43250563ef145d6b1185"
+    },
+    "drugsda-mol2mol-sampling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-mol2mol-sampling/SKILL.md",
+      "computedHash": "062e6339fd02bc423d20bdcfd3a2f4d11031f0c87b21e7831f33461a0da0d84d"
+    },
+    "drugsda-peptide-sampling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-peptide-sampling/SKILL.md",
+      "computedHash": "7b26cff30f4b94ee3c048ec85e7bbe09acc6d57f26fbcfcb2785e556ee6c12c5"
+    },
+    "drugsda-prosst": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-prosst/SKILL.md",
+      "computedHash": "53de7507295c40dc9cf2af1ffb8bc7d1831fe17c2ce78530d47931c8055752ab"
+    },
+    "drugsda-rgroup-sampling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-rgroup-sampling/SKILL.md",
+      "computedHash": "aa89c41116a90d330c1760aaed9e6cbd55a60854619178cce4b4cefebd9a017f"
+    },
+    "drugsda-target-retrieve": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/drugsda-target-retrieve/SKILL.md",
+      "computedHash": "895723e3440574c5ef3e68aae34df674cc23e18af2f9650987687d773b054dbc"
+    },
+    "electrical_circuit_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/electrical_circuit_analysis/SKILL.md",
+      "computedHash": "80de4241d3d25e5a13fec03a0baca336960207b239f6b54de796a5c8b2f55275"
+    },
+    "electromagnetic_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/electromagnetic_analysis/SKILL.md",
+      "computedHash": "07e9d981832076c919bbb60eb1a8d97b2d69b6747ba6a3021fffc7681e92c6a3"
+    },
+    "energy_conversion": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/energy_conversion/SKILL.md",
+      "computedHash": "f4000d6896bdf3b8d4cf170f20fa2b2baeabfb3554b9dec0836d0fcdda7637bb"
+    },
+    "ensembl-sequence-retrieval": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/ensembl-sequence-retrieval/SKILL.md",
+      "computedHash": "bc3b55f78de713b1766dc0f22b05eab733085472d7c62a861062e8cfa64243e2"
+    },
+    "enzyme_engineering": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/enzyme_engineering/SKILL.md",
+      "computedHash": "b4e4251ea4d0f5568f9c33b386d2ec2d47bf279706b8fbfb93e6d04ab3b7c07f"
+    },
+    "enzyme_inhibitor_design": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/enzyme_inhibitor_design/SKILL.md",
+      "computedHash": "0f44ac1fd534d1c07d317b983541e2e5842c40c9ed44f0adddac4e9996a0c23e"
+    },
+    "epigenetics_drug": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/epigenetics_drug/SKILL.md",
+      "computedHash": "fdbcc4a677db21f5e7983ae7f44518f320777d9dae28c1009eac84aaba09fb1f"
+    },
+    "epigenomic_landscape": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/epigenomic_landscape/SKILL.md",
+      "computedHash": "be3844221a51cf6f7cd50e518c22f413dc37ea78aaf18be60d670815439132a8"
+    },
+    "experimental_data_processing": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/experimental_data_processing/SKILL.md",
+      "computedHash": "6e9302c5e667e805b261ec224314b0a7b8cb2eeedaeb14a6b3222d5eb4e07f30"
+    },
+    "failure-escalation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/failure-escalation/SKILL.md",
+      "computedHash": "dfb6a6e12aaf5e99f1793f4b005b06f33a2386bec9ffb8791096657d5f000219"
+    },
+    "fda-drug-risk-assessment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/fda-drug-risk-assessment/SKILL.md",
+      "computedHash": "1b541bd78ef3fd062ba3f96699aa1a71cfc412809a5602f15a1bf5c92d7a4b13"
+    },
+    "fetch": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/search/arxiv/fetch/SKILL.md",
+      "computedHash": "ba876d3fd8582d4ee5d602a88e67b7026b9b028340b128e641822a5b6cdde3ce"
+    },
+    "full_protein_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/full_protein_analysis/SKILL.md",
+      "computedHash": "d3e90cf24122b22e3d90bbfa4b418206d4748d368b5ab2eed2c9bcf59aaf9e2d"
+    },
+    "functional_group_profiling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/functional_group_profiling/SKILL.md",
+      "computedHash": "f0b16f5e0e3d81e6f4c585e061dd1e720b07d9eb2309156c8b48647ec5e2bb4c"
+    },
+    "gene-knowledge-integration": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/gene-knowledge-integration/SKILL.md",
+      "computedHash": "86c86ac626506cde4ec295e0040a1ffe4d0d9f32386638431293aee2dd80e38b"
+    },
+    "gene_comprehensive_lookup": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/gene_comprehensive_lookup/SKILL.md",
+      "computedHash": "f5d6c4d03fe0f5642c63a497a2311e56984a1a3029e59fc0987c9c20d5a67f99"
+    },
+    "gene_disease_association": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/gene_disease_association/SKILL.md",
+      "computedHash": "5a79deaafd25ef59cb6c050f90e7d9e2f811da1a14d96b50919177a311a56fc2"
+    },
+    "gene_expression_atlas": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/gene_expression_atlas/SKILL.md",
+      "computedHash": "799c7e77f7dbeaefa10245bde138b400ff625d38a958b64f13c4ed4259b80044"
+    },
+    "gene_family_evolution": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/gene_family_evolution/SKILL.md",
+      "computedHash": "35495cfb2bce26416815e9339fb2b13a60f1c134e52bdcb3fd690d09e79f51fb"
+    },
+    "gene_therapy_target": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/gene_therapy_target/SKILL.md",
+      "computedHash": "110d829611a9bdae89c55551811919ee43fcea02e1ec4c891acf0c34b8a29245"
+    },
+    "gene_to_drug_pipeline": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/gene_to_drug_pipeline/SKILL.md",
+      "computedHash": "7368160f54d3b19cd9973b292b95101b774e992ce9877c4164d57805a9cce8af"
+    },
+    "gene_variant_drug_nexus": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/gene_variant_drug_nexus/SKILL.md",
+      "computedHash": "ebfba62d15a7101d7f93cc0ed8ab58e21308d7880af479ac988d8677134e7361"
+    },
+    "generate-image": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/report/generate-image/SKILL.md",
+      "computedHash": "9705a0154d9cd699537c39584836ab70465a1845a05db0b37496d2a5cfaebf3e"
+    },
+    "genetic_counseling_report": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/genetic_counseling_report/SKILL.md",
+      "computedHash": "a324647b50f050a626bc5685317c32926b0de46e38b39bb327046a43aa0f104c"
+    },
+    "genome_annotation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/genome_annotation/SKILL.md",
+      "computedHash": "68000f291ba363f88c3590b08f28ae6e914ace4402b588a34a075caab5faf16a"
+    },
+    "geometric-volume-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/geometric-volume-calculation/SKILL.md",
+      "computedHash": "52ae4a0133bcddc20217cd1bb37f76e8773fe600e44cd8f5098d0ab2c779d05a"
+    },
+    "geometry_trigonometry": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/geometry_trigonometry/SKILL.md",
+      "computedHash": "2fa4386005dcdc3c58186a7553c1f6dd3d36832472ff3a61df6532685c587a57"
+    },
+    "get-review-theme": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/get-review-theme/SKILL.md",
+      "computedHash": "3c67f001c34a953612df455c9b048433b130a3ecea477082156621460130dd64"
+    },
+    "github": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/code/github-1.0.0/SKILL.md",
+      "computedHash": "77cb3e6cee0e0ad50b36c18d0bcc2da803c053589eb84cca74356b5efb8d272e"
+    },
+    "go_term_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/go_term_analysis/SKILL.md",
+      "computedHash": "f6c609ae96e53f8ffd5402439b65865f6ae63367cb898ac20711ea4033462728"
+    },
+    "guide-updater": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/guide-updater/SKILL.md",
+      "computedHash": "1e4abb0618f957a11bfbcc501e5c0a799d88a9bb1bd9cd2b8a76e62d947456a7"
+    },
+    "infectious_disease_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/infectious_disease_analysis/SKILL.md",
+      "computedHash": "34025b1bfc20acdb269af95802d9bab19fc98ea4f2c71d7d109ef6528b7054c6"
+    },
+    "interproscan-domain-analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/interproscan-domain-analysis/SKILL.md",
+      "computedHash": "22fc8822d821fb2ae1edd03e07d9c29b02848b5d8a6b77341d0b5792492f1fd6"
+    },
+    "interproscan_pipeline": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/interproscan_pipeline/SKILL.md",
+      "computedHash": "b1df27e26a9117200bbcca1c7ca88e8fadc95c64e60f38c6f3ca5a4b2ba62dcc"
+    },
+    "kegg-gene-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/kegg-gene-search/SKILL.md",
+      "computedHash": "08bf0dc29f12c6eca4cc68c8f7a7cc4a58c7cc68a431536ea08c218b49108b2b"
+    },
+    "lab_protocol_from_literature": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/lab_protocol_from_literature/SKILL.md",
+      "computedHash": "fccbe4655a44d7a1091d078b989aca4d6c284baf316b1dd74a119d11c98febac"
+    },
+    "lead_compound_optimization": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/lead_compound_optimization/SKILL.md",
+      "computedHash": "c69d1781575674b0a5ad6bf9bee756b1a86103814c92d8473ab74779d5111e29"
+    },
+    "length_measurement": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/length_measurement/SKILL.md",
+      "computedHash": "31ef4d81e015aed661cdd46e2cbc9c92288a646715f7faa7f8b3ea2888316ab3"
+    },
+    "local-skill-hub": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/local-skill-hub/SKILL.md",
+      "computedHash": "9d0c605c8021e584e6b070b2a2ca881546b83dd57ac540208e560d327a197de2"
+    },
+    "make_latex_model": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/make_latex_model/SKILL.md",
+      "computedHash": "d0f1b708df6ef017b08cd397b0646aa27971a75acc58869c0e87c183f3ca3393"
+    },
+    "manim": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/report/manim/SKILL.md",
+      "computedHash": "4c674bb03c11f94a589b1b8167ffc9132c50059f8f73eea8cd38c8f7b141a324"
+    },
+    "markdown-converter": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/doc/markdown-converter-1.0.0/SKILL.md",
+      "computedHash": "4749c74ea313c548de0c7c6b1f3d23df588186a3aa323ebb304df3f3ac3940f4"
+    },
+    "material-density-volume-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/material-density-volume-calculation/SKILL.md",
+      "computedHash": "32b28e9f32d075c4fdd4460b7a8ce9e3e77e225ce52c44d8a32ff9faf495dda5"
+    },
+    "measurement-error-analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/measurement-error-analysis/SKILL.md",
+      "computedHash": "f1a70fc17738dba38a032de47ed7dee51b15556e49690ddf810f3ec4de5a9d9c"
+    },
+    "memory": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/memory/SKILL.md",
+      "computedHash": "7918a663ba3c5abbd40538a8ef2f86b6f86c94da85c258d2608a393e654ff89f"
+    },
+    "metabolomics_pathway": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/metabolomics_pathway/SKILL.md",
+      "computedHash": "faaa3d734df40908f2548d7e3c3bd62318f0e53f15f2ecb58b73287af99e4c94"
+    },
+    "microbiome_genomics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/microbiome_genomics/SKILL.md",
+      "computedHash": "18f047f1a623b839710c4f676a693d00dc65393b7e1d4c0e97f665c79fdd1d43"
+    },
+    "migrating-latex-templates": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/transfer_old_latex_to_new/SKILL.md",
+      "computedHash": "74e827df9a46a6dd65fcc4b7859e73e9d4636203a799a8ab59a52b03e050ef9c"
+    },
+    "mobility_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/mobility_analysis/SKILL.md",
+      "computedHash": "c284f18b3389ed1cf9928e53d728c8c3ba22a8ea6019103da2f11500bd750a7d"
+    },
+    "molecular-descriptors-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/molecular-descriptors-calculation/SKILL.md",
+      "computedHash": "436b705834fc2a9c4ef4c552cb6412ac629cab5a96b9d0b9f681da52f0ace279"
+    },
+    "molecular-format-conversion": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/molecular-format-conversion/SKILL.md",
+      "computedHash": "9e868d2b740bdd0e9aec5dcef0c32e8ff71e7e90b79b0398bd0ecb9266a329bd"
+    },
+    "molecular-properties-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/molecular-properties-calculation/SKILL.md",
+      "computedHash": "98a77fbad52ef2a464141adcd9a0ba4e6ac6134f6acbd25b00b7c5bf43f703b8"
+    },
+    "molecular-property-profiling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/molecular-property-profiling/SKILL.md",
+      "computedHash": "d078389e657b36e0779eb697da51dd98fe690c62c22e5108b7b1f7a7d5861a47"
+    },
+    "molecular-similarity-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/molecular-similarity-search/SKILL.md",
+      "computedHash": "43706f45c5a4a47742724786b9abe9c4e7288e392ad5eeda4d99a1a1982c5c65"
+    },
+    "molecular_docking_pipeline": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/molecular_docking_pipeline/SKILL.md",
+      "computedHash": "a6407559ce98c6f171a3bb12e04c924f54f9778675d486158130480aaa4152ab"
+    },
+    "molecular_fingerprint_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/molecular_fingerprint_analysis/SKILL.md",
+      "computedHash": "12d874802e22d4cef7229c176ae9e7be50c0d4f3985221a893f4648ac39fd841"
+    },
+    "molecular_visualization_suite": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/molecular_visualization_suite/SKILL.md",
+      "computedHash": "0d743b4a73b19009cb4bda58eea4690811ec5d94555c9155b3c3b1bcdddb8bd3"
+    },
+    "mouse_model_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/mouse_model_analysis/SKILL.md",
+      "computedHash": "be41383ff3b5a5cd31d0ec73f4e2c170f067d33d416e0998b862af6608efdab6"
+    },
+    "multiomics_integration": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/multiomics_integration/SKILL.md",
+      "computedHash": "90901183d4f5666cbf0a4f2b4881ae0fc6da4b13e1074216894d12124fd9a87b"
+    },
+    "multispecies_gene_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/multispecies_gene_analysis/SKILL.md",
+      "computedHash": "4feb12fc631d6fda5ff373b8bd0d03e4650a9f2d9205451d50f8a63a9a05bb30"
+    },
+    "mutation_impact_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/mutation_impact_analysis/SKILL.md",
+      "computedHash": "af73bc9afe4263c989eedaef2b23e6f2c7bc9c63b94aaf9e780eac38148bb7a4"
+    },
+    "natural_product_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/natural_product_analysis/SKILL.md",
+      "computedHash": "62297e90d69747617329270ef736f7c97571b57997d41a66d2fde51c504d7be3"
+    },
+    "ncbi-gene-retrieval": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/ncbi-gene-retrieval/SKILL.md",
+      "computedHash": "c1b4344eae8b10dc1cda5a899190ba8f85968dff8ae185b795911f8cf9ca89f7"
+    },
+    "ncbi_gene_deep_dive": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/ncbi_gene_deep_dive/SKILL.md",
+      "computedHash": "1f07b6839651325990c0d7d37e6a19ceb4ba0c7fc9cd03458b3909e4372d4ae4"
+    },
+    "nsfc-abstract": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-abstract/SKILL.md",
+      "computedHash": "9e45808689458677ee596db9cf1dcc31dca5c873af6b044f2bee15540b72948e"
+    },
+    "nsfc-budget": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-budget/SKILL.md",
+      "computedHash": "6880227eaa4f5bb462cec3b5c3db9e1627907b737cdf556344a8e47819b795f5"
+    },
+    "nsfc-code": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-code/SKILL.md",
+      "computedHash": "d9785fd8756da089410ec155fae2558f13c93672012593913321c71fd5aea9f1"
+    },
+    "nsfc-humanization": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-humanization/SKILL.md",
+      "computedHash": "f57b095ae923948797e92ee734033dbb724ea6e6eca97d3c8927cf8767825972"
+    },
+    "nsfc-justification-writer": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-justification-writer/SKILL.md",
+      "computedHash": "b984e6e4df9359251b978181d8dde7844d556fddce88615e090fd747439af5ab"
+    },
+    "nsfc-length-aligner": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-length-aligner/SKILL.md",
+      "computedHash": "e88c07775577905c293ca23f75eff28c46b174d7fc5f4a87c35333bb6a7b1e90"
+    },
+    "nsfc-qc": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-qc/SKILL.md",
+      "computedHash": "78df795f531bd2287c67f0f116327540164bc5338f961949751d4ca0e6124292"
+    },
+    "nsfc-ref-alignment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-ref-alignment/SKILL.md",
+      "computedHash": "51b4d8f899bd0ab571eb16cd64ab2ae8c19abf0ec510a0a6d9d755e1768491fe"
+    },
+    "nsfc-research-content-writer": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-research-content-writer/SKILL.md",
+      "computedHash": "045a2c035b9480ead88f91d5e554c500192e6b10ca2f1b793d81a5bc51f8d111"
+    },
+    "nsfc-research-foundation-writer": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-research-foundation-writer/SKILL.md",
+      "computedHash": "9b66fc5140ddc06b387b9a25db8ad0e3f473239ea81b1394fb572d436a29ea40"
+    },
+    "nsfc-reviewers": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-reviewers/SKILL.md",
+      "computedHash": "7a8eb92769fcf4957d3cd9e5b2c74f284f8e4bddc2ff893d3a68a8f1a1b505be"
+    },
+    "nsfc-roadmap": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-roadmap/SKILL.md",
+      "computedHash": "cb06b4587b628ef215de9640e8c7972ce81177d402fa888357b3e46a6f5c1d7c"
+    },
+    "nsfc-schematic": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/nsfc-schematic/SKILL.md",
+      "computedHash": "5cef73fdc796316d38a135a99792ad3a13b83ef559ebdd092694a5f6f9a53ce9"
+    },
+    "nuclear_physics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/nuclear_physics/SKILL.md",
+      "computedHash": "450c02c43793adb6900203e964df02e7cec582716e4db9efbb6beac169427121"
+    },
+    "oceanographic-seawater-properties": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/earth/oceanographic-seawater-properties/SKILL.md",
+      "computedHash": "91bd1e8552b5b4f4c68d4ac4f763b7c6af8e93199791709d5f49e3c9d766f14c"
+    },
+    "one_health_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/one_health_analysis/SKILL.md",
+      "computedHash": "fa27a4ca9cf3d8396529723c71406fc079b9b5da2686a6885e8d98cb19c6cc5f"
+    },
+    "opentargets-disease-target": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/opentargets-disease-target/SKILL.md",
+      "computedHash": "f86060a182c8d48bca523dc15c7a1639766d64519b65886dc1c0ce90c2b2af77"
+    },
+    "optical-frequency-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/optical-frequency-calculation/SKILL.md",
+      "computedHash": "7bba573abe8afa14fddab77b75d1599f55136bffa337350c82b51c7aebf34ccf"
+    },
+    "optics_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/optics_analysis/SKILL.md",
+      "computedHash": "0ca70510382c4948f4042003d8b31b3006bdcf9b969276118e2c3ee26ef91e2f"
+    },
+    "organism_classification": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/organism_classification/SKILL.md",
+      "computedHash": "7c46528f74e3a9e378600a0e356681875632dfd411c5182e0ca5c88df2d91a44"
+    },
+    "orphan_drug_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/orphan_drug_analysis/SKILL.md",
+      "computedHash": "8c64f6bd4581906d14c5c1a5d01bc33b922a6532c8115feb96d67881c033f9a6"
+    },
+    "pandemic_preparedness": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/pandemic_preparedness/SKILL.md",
+      "computedHash": "80f237bf7ee16a71575c24285a38fcb8196c9d578a44dc84646d38f2967f1188"
     },
     "pdf": {
       "source": "anthropics/skills",
@@ -13,17 +1009,491 @@
       "skillPath": "skills/pdf/SKILL.md",
       "computedHash": "cfbc539377088ca7e44a813b30c306327385bbd973cd7a721e1743f60837dd62"
     },
+    "pediatric_drug_safety": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/pediatric_drug_safety/SKILL.md",
+      "computedHash": "da053638c559768eed1dadde8d013e2b1d61b21c874f69dc825bcb24b28eb4a4"
+    },
+    "peptide-properties-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/peptide-properties-calculation/SKILL.md",
+      "computedHash": "56ba28396ac4275ac9c51216529bad0ff2ff7072990544f0a1b1b1bd541879c8"
+    },
+    "personalized_medicine": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/personalized_medicine/SKILL.md",
+      "computedHash": "84251d587e1732570241a985955263b8561509c400df70d5256c4161b643ca9e"
+    },
+    "pharmacogenomics_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/pharmacogenomics_analysis/SKILL.md",
+      "computedHash": "11639426be32b0c81b64faab4c9e76eec4dfb73555488db2f1906ec8b9443b84"
+    },
+    "pharmacokinetics_profile": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/pharmacokinetics_profile/SKILL.md",
+      "computedHash": "122b50efb68bb0a9f6ec1513bc2908ab72bb39ccd772dcb5eafaa35fa96782c5"
+    },
+    "phenotype-by-hpo-id": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/phenotype-by-hpo-id/SKILL.md",
+      "computedHash": "b17f6091c883aa98bcebc6a65f99c00f45a164fffdaa3a6995abafb6d1180b1f"
+    },
+    "planner": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/planner/SKILL.md",
+      "computedHash": "212420b955bbb11ef59e01ea39d9199a0b780d6d80f241b83f64058c6cfc9205"
+    },
+    "polymer_property_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/polymer_property_analysis/SKILL.md",
+      "computedHash": "ec8b9bd2bf8942b39b11c195d7c7dc49ee25dd6f19c33a2256a607cf7b780272"
+    },
+    "polypharmacology_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/polypharmacology_analysis/SKILL.md",
+      "computedHash": "fb3938511e7dc3bad9be4087dd096c85cdcb0ce3ff2267e521c1fa66945041a7"
+    },
+    "population_genetics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/population_genetics/SKILL.md",
+      "computedHash": "ef84f358fa9e12f2c71d159d13bda353616ef1be906eb65a473356ae48c09ecc"
+    },
     "pptx": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/pptx/SKILL.md",
       "computedHash": "6b8b859d26f93aa059c9870d1ab76b44ab69e3d6757ce4a03cc94cb760888073"
     },
+    "precision_oncology": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/precision_oncology/SKILL.md",
+      "computedHash": "79f3bd89d859da85ae700748a748ace90b6e7a7cbf8cfd217713ea32bbb2f666"
+    },
+    "protein-blast-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein-blast-search/SKILL.md",
+      "computedHash": "8b2e48604416e872c7753d20d2224a96c9661aba74eba9c86fa9d3571fe99438"
+    },
+    "protein-properties-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein-properties-calculation/SKILL.md",
+      "computedHash": "5f41315194fc98ed9d6f422d962f63c0a626926bf8322fbf6fd29179884ff79e"
+    },
+    "protein_classification_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_classification_analysis/SKILL.md",
+      "computedHash": "da1e09fc62eb2229e61853ce56e302bea2d5b5a52dd27321c39bfe23f97df3bc"
+    },
+    "protein_complex_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_complex_analysis/SKILL.md",
+      "computedHash": "cb2654b5fad87bf602818524620d8fff4021e0b6cffb8c1a9eb61abd2f37e6aa"
+    },
+    "protein_database_crossref": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_database_crossref/SKILL.md",
+      "computedHash": "70765a35c7e9187089ff6ce43f38e0de9bbab607723dc23ba8504878cb7b46fd"
+    },
+    "protein_drug_interaction": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/protein_drug_interaction/SKILL.md",
+      "computedHash": "8feea6324843b5881df833f27d061c4620595da8b92de61f198b35ab7d0d5092"
+    },
+    "protein_engineering": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_engineering/SKILL.md",
+      "computedHash": "32a0005c48fe836978e3d4a88c8b53be9d4d3f0f327191a62f18c491be016a3c"
+    },
+    "protein_function_annotation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_function_annotation/SKILL.md",
+      "computedHash": "d266ebb43a48ab0b70fd8aa0b3243858d7270ca925b80cb81bcef52a19a99b3a"
+    },
+    "protein_interaction_network": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_interaction_network/SKILL.md",
+      "computedHash": "72e11a03c73bad3a03f57a8ec50e8c56ea66cbf07e5c958001874bf6d03ce172"
+    },
+    "protein_property_comparison": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_property_comparison/SKILL.md",
+      "computedHash": "b326138c70f720392eaeef2e4b9ece626dbe01143777c3ee014aa43be6d5e063"
+    },
+    "protein_quality_assessment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_quality_assessment/SKILL.md",
+      "computedHash": "36fef3355d67549fb8a0b6755de4f0c0000fb16b148427df6e814d4d212a242b"
+    },
+    "protein_similarity_search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_similarity_search/SKILL.md",
+      "computedHash": "f05010c8ae53953c28f1c7967fb9895f6aae49980345d47847b582e41c99213a"
+    },
+    "protein_solubility_optimization": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_solubility_optimization/SKILL.md",
+      "computedHash": "ebca08044f7a0c17dac352b9698c670d476363b524c13585f83b9b62267cf739"
+    },
+    "protein_structure_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/protein_structure_analysis/SKILL.md",
+      "computedHash": "1b2448d2449ce30284b23cf8f7bea3f113e35a154fc4534ac3226113bfdb6d53"
+    },
+    "proteome_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/proteome_analysis/SKILL.md",
+      "computedHash": "c5b79d5e01a69a728395b66c2eb52d52f5ddfbe415672b6295d6879a3e138821"
+    },
+    "pubchem-smiles-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/pubchem-smiles-search/SKILL.md",
+      "computedHash": "96a5c378d0f8b61ec2d2d434a219159b47f7259057ba66066d23577d82f08549"
+    },
+    "pubchem_deep_dive": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/pubchem_deep_dive/SKILL.md",
+      "computedHash": "36d02816c64f423b060ed0af272a2f65ab0ffa9218a16fa8b35ac8ec75fdf5a5"
+    },
+    "pubmed-article-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/search/pubmed-article-search/SKILL.md",
+      "computedHash": "58ccffa1382309ec94acfbf591a830cedbd678a61dd30058cb28294a5d253a3f"
+    },
+    "rare_disease_genetics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/rare_disease_genetics/SKILL.md",
+      "computedHash": "8fe629c885a120b964de3925fdc5474c5250a612af862c42a5f7b42512016103"
+    },
+    "region-gene-elements": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/region-gene-elements/SKILL.md",
+      "computedHash": "4c6bc137eb44b4381cf207a46e857168cce09275f61738cddb396b3a56d09d48"
+    },
+    "regulatory_region_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/regulatory_region_analysis/SKILL.md",
+      "computedHash": "8565c48ef75496bc73849f7b1d97c544c8c2f22a8f0549adc0b8d5948063d63c"
+    },
+    "scientific-brainstorming": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/thinking/scientific-brainstorming/SKILL.md",
+      "computedHash": "aaa92a56f772b1977f947a652c6d93ae0ff64f2337c4509e2936b54d6b97c226"
+    },
+    "scientific-critical-thinking": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/thinking/scientific-critical-thinking/SKILL.md",
+      "computedHash": "02848cdb3f02cb77151548f37d3e7b8d8836ad9d7b95f9c43e67cea5db779bfa"
+    },
+    "scientific-literature-search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/search/scientific-literature-search/SKILL.md",
+      "computedHash": "c3b2e0b4a6e0df8b7ef1cbfe47a052afb4abebe729f530c6215173cc4268ea9e"
+    },
+    "scientific-schematics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/report/scientific-schematics/SKILL.md",
+      "computedHash": "88d3cbd93f7e60d1acd7a38936398075bce7a5ec5ddcca34c63351729fd6980d"
+    },
+    "scientific-slides": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/report/scientific-slides/SKILL.md",
+      "computedHash": "0a9a6600c7c20261b108a9a9a5961594785114e735493764418b1cdba7107a23"
+    },
+    "scientific-visualization": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/report/scientific-visualization/SKILL.md",
+      "computedHash": "26ba0ce96c43189e02cbba6628b5411f4cf4bb705ef8f89823170ccb81f65098"
+    },
+    "scientific-writing": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/report/scientific-writing/SKILL.md",
+      "computedHash": "e660c6fde51db8fe1ccc400c0996f03cdfc13a5a52b25c5ed87ef7cf8f77f14d"
+    },
+    "seawater-freezing-temperature": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/earth/seawater-freezing-temperature/SKILL.md",
+      "computedHash": "cff52d696d9400aa052953bd960915276edf26cd88dda164a4b46becc4bc49f0"
+    },
+    "seawater-sound-speed-calculation": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/earth/seawater-sound-speed-calculation/SKILL.md",
+      "computedHash": "9629ed9b29798d61b2f99f408d6764aca34e9d32d61b75dddb77136cd456b895"
+    },
+    "signal_processing": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/signal_processing/SKILL.md",
+      "computedHash": "e5338f4dc0c163e3bd75520a6260c2fd0b317197cc8309d117d82da55c6471c9"
+    },
+    "smiles-to-cas-conversion": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/smiles-to-cas-conversion/SKILL.md",
+      "computedHash": "2e9ccdde831eef987c3feb5e830b40b640fe439e4742fe58b8118b89a0bf6135"
+    },
+    "smiles_comprehensive_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/smiles_comprehensive_analysis/SKILL.md",
+      "computedHash": "bf1f9033a4dbbe3e7ae4f764c34ae73eb0ff97e0c42e0c538e1f6527a5e1eeab"
+    },
+    "snp_functional_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/snp_functional_analysis/SKILL.md",
+      "computedHash": "95bd19478242bff662b0bd81524e015a58081b2e6232422400d3db131d67a66c"
+    },
+    "ssh-essentials": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/exec/ssh-essentials-1.0.0/SKILL.md",
+      "computedHash": "b4edc7d20c5230e4ed6f40602cc9649bd2704ab02015055e43fe2265352ed6ff"
+    },
+    "ssh-long-session": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/skills/ssh-long-session/SKILL.md",
+      "computedHash": "e2e9d4296ae2c0b582728410bd08935c6d35839c427e657c4320330682c3469c"
+    },
+    "statistical_error_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/statistical_error_analysis/SKILL.md",
+      "computedHash": "fbd906a6610f9fbfe3707ebc2c2c65cc70fae608ab7c34e87f30f3a02cdd05f8"
+    },
+    "string-ppi-enrichment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/string-ppi-enrichment/SKILL.md",
+      "computedHash": "510a2fb18e94e6b04df4dc864efe44a03c2d9852827e07b85adafa9b5578634a"
+    },
+    "structural_homology_modeling": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/structural_homology_modeling/SKILL.md",
+      "computedHash": "f1ab65ce53292b8279f2316390b879fca6ea071b1f883e14d90d655959b19cd5"
+    },
+    "structural_pharmacogenomics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/structural_pharmacogenomics/SKILL.md",
+      "computedHash": "3528f49e25b605a268e869f4b42ea7867e640602cf29f2050535a8cb943ac053"
+    },
+    "substance_toxicology": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/substance_toxicology/SKILL.md",
+      "computedHash": "b9a567064e3acb10397e0824ea8be890ce319ed7e01e13708bb8d9619c5ff475"
+    },
+    "substructure_activity_search": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/chemistry/substructure_activity_search/SKILL.md",
+      "computedHash": "5cf9c3303d06f10ac8a42e6b30e0da57f5410ed95836e4f9e33ff80ee28c803b"
+    },
+    "synthetic_biology_design": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/synthetic_biology_design/SKILL.md",
+      "computedHash": "d97109dc621ce04f3338b365907a7c09e50b1ab97062ccd5c5e095eef7303d8a"
+    },
+    "systematic-literature-review": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/proposal_writing/systematic-literature-review/SKILL.md",
+      "computedHash": "ee32d91d55ba20478e68ad8d65c3fd97cfab845c61f95a737579d1f13e1a9165"
+    },
+    "systems_pharmacology": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/systems_pharmacology/SKILL.md",
+      "computedHash": "705bd0fe80c32608dcb9d648cb7d7b720ad7b95478bd9c48d682958a5c88109a"
+    },
+    "tcga-gene-expression": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/tcga-gene-expression/SKILL.md",
+      "computedHash": "d08faebba3263f63daa08030451c1d45e0fd97fa4fe92b4380c6409efe3b3cd2"
+    },
+    "thermal_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/thermal_analysis/SKILL.md",
+      "computedHash": "6283eda1ac3c8af7352d890ebc07f51b9710c97b53050a7530d5bb45849577c3"
+    },
+    "tissue_specific_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/tissue_specific_analysis/SKILL.md",
+      "computedHash": "9f15adfd3dc7f7f0e394a90ce16310e2e3f7b46a2552304ce81fd556b386f2eb"
+    },
+    "today-paper-summary": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/search/today-paper-summary/SKILL.md",
+      "computedHash": "d5ed6bb15b9b712f3e0ce8513ba72f6bdcca35f5073ce06cd29e86959ba12f1f"
+    },
+    "toxicity_assessment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/toxicity_assessment/SKILL.md",
+      "computedHash": "f127c2b7be09cd1e318929851e3243218bd276dec1e52b097928e1612ef23544"
+    },
+    "transcriptome_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/transcriptome_analysis/SKILL.md",
+      "computedHash": "a49b4b12f6e552163cb2c870fb364866321b60dfa142d17c091a6c53f645b2df"
+    },
+    "ucsc_genome_exploration": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/ucsc_genome_exploration/SKILL.md",
+      "computedHash": "665fd54ca69ba060c8dc6e9fb5c7902c2dae3e66876331acd3d6308f5d6aa401"
+    },
+    "ui-ux-pro-max": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/unarchived/ui-ux-pro-max/SKILL.md",
+      "computedHash": "c879d167add7b873b53c8680dce68bfa04c31d47d4f101062353b8bcd9622e55"
+    },
+    "uniprot-protein-retrieval": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/uniprot-protein-retrieval/SKILL.md",
+      "computedHash": "83dadcd959a7ead2c9978cf7c3f59daea311f6171bbb9c2bf50cdef9d4079898"
+    },
+    "uniprot_deep_analysis": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/uniprot_deep_analysis/SKILL.md",
+      "computedHash": "49af25c0ee7e3976ac0193680e2a81eb91d61df236032418cd7f3805de758f32"
+    },
+    "unit_conversion_suite": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/physics/unit_conversion_suite/SKILL.md",
+      "computedHash": "17c39acfebb5eede10a60ad1b6dcb3ce142165cb4c13fdd78c39e1dac3a05c99"
+    },
+    "variant-clinical-significance": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/variant-clinical-significance/SKILL.md",
+      "computedHash": "595571080323b608c39dfabd55e2b89480e6b93d7dda2222e969cd7dc3fad919"
+    },
+    "variant-cross-database-ids": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/variant-cross-database-ids/SKILL.md",
+      "computedHash": "dbbc79e4aa8cb53eb0356d98f44ea71f45746533913225ff4945fdcdefce6bf7"
+    },
+    "variant-functional-prediction": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/variant-functional-prediction/SKILL.md",
+      "computedHash": "24b440faa9d44fd6128cb0b2fb1c51b9430c6bce8b52e27197abce72754664a9"
+    },
+    "variant-genomic-location": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/variant-genomic-location/SKILL.md",
+      "computedHash": "b02ac79c6af57f058fed7a9cfadae516b9305a440693fa5e6db7c58afa9aa0ce"
+    },
+    "variant-gwas-associations": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/variant-gwas-associations/SKILL.md",
+      "computedHash": "79c355f85c7a3cdc90c7a8dfed0aa8f23fed03e4b7a1c47e78d853117dc48c58"
+    },
+    "variant-pharmacogenomics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/variant-pharmacogenomics/SKILL.md",
+      "computedHash": "2bd30a63d78dd8237ff29ad07c0dd3707a39f2d643efeae4b99ba2395dfd2930"
+    },
+    "variant-population-frequency": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/variant-population-frequency/SKILL.md",
+      "computedHash": "d1f8106e0c6465e80c7026d339cac1244405dfae72ca19f65ec1354b2e1cb32e"
+    },
+    "variant_pathogenicity": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/variant_pathogenicity/SKILL.md",
+      "computedHash": "3eb5f77e6c59108bc6336e518bb2f0e1f1f09b02466ef6eb0a36c50422dd25b1"
+    },
+    "virtual_screening": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/drug/virtual_screening/SKILL.md",
+      "computedHash": "28661e1d52443ebc1478e63e4071b03a38db65107e44f8b26266683871edb374"
+    },
+    "virus_genomics": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/gene/virus_genomics/SKILL.md",
+      "computedHash": "30cefdac21922ecdfefe47043f56520f0cc6adadf8c33a79ef901c4eceb71ce6"
+    },
     "web-artifacts-builder": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/web-artifacts-builder/SKILL.md",
       "computedHash": "d52d422ead3fa26859a6af129609841a8536b230a2d649f86e61771d063e05e2"
+    },
+    "web_literature_mining": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/protein/web_literature_mining/SKILL.md",
+      "computedHash": "2fc9db7e3c54251086842874ba2531cb599ce7c3fb1994c455fbf7f3b9585637"
+    },
+    "wind-site-assessment": {
+      "source": "InternScience/DrClaw",
+      "sourceType": "github",
+      "skillPath": "drclaw/local_skill_hub/science/earth/wind-site-assessment/SKILL.md",
+      "computedHash": "f9037776657fbe8b1d2af130c62ef4b51f03872f12d3c338ea856f7750dff389"
     },
     "xlsx": {
       "source": "anthropics/skills",
