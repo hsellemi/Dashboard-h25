@@ -55,6 +55,12 @@
       "skillPath": "drclaw/local_skill_hub/science/protein/antibody_target_analysis/SKILL.md",
       "computedHash": "56c430bde3c8a8fdbf70b0261c89e5c435871924b1dcc5a45c41aa7487ae5ef3"
     },
+    "arxiv-search": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "libs/cli/examples/skills/arxiv-search/SKILL.md",
+      "computedHash": "ab65a00e77d592c2647c80bcb7d9ff5a316dbaa4260a26904df0d31d68ce0f96"
+    },
     "arxiv-watcher": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -108,6 +114,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/protein/blast_protein_analysis/SKILL.md",
       "computedHash": "75f00eb94bfadd94afdf9d726dc2ef0a23505433db4ce4ac00134f836830cea7"
+    },
+    "blog-post": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/content-builder-agent/skills/blog-post/SKILL.md",
+      "computedHash": "4a695b9be73d15798cf887a5c55732a8247e4926d2ce3d844c97ae57c44bb3f2"
     },
     "boltz2-binding-affinity": {
       "source": "InternScience/DrClaw",
@@ -229,11 +241,23 @@
       "skillPath": "drclaw/local_skill_hub/science/drug/clinical_trial_drug_profile/SKILL.md",
       "computedHash": "0fd59a70aade92869c6da329c8469adc3b00620d6b217696eed15e6405553d3f"
     },
+    "code-review": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/deploy-coding-agent/skills/code-review/SKILL.md",
+      "computedHash": "94617ce916d323f41849953713d2dfecdd6a97c0c8bf2eb6483ee556ef6c10f4"
+    },
     "code_execution_analysis": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/protein/code_execution_analysis/SKILL.md",
       "computedHash": "8768e1cc12ceabbabefba476e7e3037ec0633a7c1d99c96ef786d9ab24f0e35b"
+    },
+    "coding-prefs": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/deploy-coding-agent/skills/coding-prefs/SKILL.md",
+      "computedHash": "2069cde57ab1459e309ab2f25a25b4143576dbb86119f7d0d30637c3dadf0735"
     },
     "combinatorial_chemistry": {
       "source": "InternScience/DrClaw",
@@ -246,6 +270,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/drug/comparative_drug_analysis/SKILL.md",
       "computedHash": "93681539caf7bc832487cc3301fcac82ffadf0a2bcf1e6317f693ad10ac1d5a8"
+    },
+    "competitor-analysis": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/deploy-gtm-agent/skills/competitor-analysis/SKILL.md",
+      "computedHash": "4d4a32f17e790ea217f66fdb10184b2beba8c7ef2a98c9422124a5009c3f9dd3"
     },
     "complete-example": {
       "source": "InternScience/DrClaw",
@@ -294,6 +324,24 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/gene/cross_species_genomics/SKILL.md",
       "computedHash": "893fd87478cfaa5422bff317d69378a52b84ca1cf7d4e3adde3f42f25f42d284"
+    },
+    "cudf-analytics": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/nvidia_deep_agent/skills/cudf-analytics/SKILL.md",
+      "computedHash": "e7ed2a584dc7cbfb8815b67ab959118464744978d3e6f79ea5cee44038aba8a7"
+    },
+    "cuml-machine-learning": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/nvidia_deep_agent/skills/cuml-machine-learning/SKILL.md",
+      "computedHash": "4f737577882391baed64cd085c4e92b8bf799e8003a40a78bc5b32421798bb59"
+    },
+    "data-visualization": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/nvidia_deep_agent/skills/data-visualization/SKILL.md",
+      "computedHash": "2deb6dbf6802b268eb6482e3c2b8f400205c976aab404a43619fc458646b1b07"
     },
     "disease-reversal-prediction": {
       "source": "InternScience/DrClaw",
@@ -667,6 +715,12 @@
       "skillPath": "drclaw/local_skill_hub/science/gene/go_term_analysis/SKILL.md",
       "computedHash": "f6c609ae96e53f8ffd5402439b65865f6ae63367cb898ac20711ea4033462728"
     },
+    "gpu-document-processing": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/nvidia_deep_agent/skills/gpu-document-processing/SKILL.md",
+      "computedHash": "a1957a55ac227c88b4be0b74ef0aee85e17c69d6b2d3aec8e0cd5fb5cef9f062"
+    },
     "guide-updater": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -702,6 +756,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/protein/lab_protocol_from_literature/SKILL.md",
       "computedHash": "fccbe4655a44d7a1091d078b989aca4d6c284baf316b1dd74a119d11c98febac"
+    },
+    "langgraph-docs": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "libs/cli/examples/skills/langgraph-docs/SKILL.md",
+      "computedHash": "623b8c10cbb70f70ea875d1b0901f0fb0e174a837c2d6d10707627a46ae30631"
     },
     "lead_compound_optimization": {
       "source": "InternScience/DrClaw",
@@ -1051,6 +1111,12 @@
       "skillPath": "drclaw/skills/planner/SKILL.md",
       "computedHash": "212420b955bbb11ef59e01ea39d9199a0b780d6d80f241b83f64058c6cfc9205"
     },
+    "planning": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/deploy-coding-agent/skills/planning/SKILL.md",
+      "computedHash": "ca6dc1d3c2b4aea8ae14a58655f9fa31c97b6a5e20c23e89578d57cfa85034ed"
+    },
     "polymer_property_analysis": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -1189,6 +1255,12 @@
       "skillPath": "drclaw/local_skill_hub/search/pubmed-article-search/SKILL.md",
       "computedHash": "58ccffa1382309ec94acfbf591a830cedbd678a61dd30058cb28294a5d253a3f"
     },
+    "query-writing": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/text-to-sql-agent/skills/query-writing/SKILL.md",
+      "computedHash": "4191553d476ea7920f41bef93806f448eec1fef259bcc4d7719e5f1093544191"
+    },
     "rare_disease_genetics": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -1206,6 +1278,18 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/gene/regulatory_region_analysis/SKILL.md",
       "computedHash": "8565c48ef75496bc73849f7b1d97c544c8c2f22a8f0549adc0b8d5948063d63c"
+    },
+    "remember": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "libs/cli/deepagents_cli/built_in_skills/remember/SKILL.md",
+      "computedHash": "028ba3f60f046936429fec542d43aa2efbfa09573b26adfc0d02191f75d95b33"
+    },
+    "schema-exploration": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/text-to-sql-agent/skills/schema-exploration/SKILL.md",
+      "computedHash": "e845597c973632a8482b0b1e1c3692df86539f1665c67a7aedc3ea80ce292ec5"
     },
     "scientific-brainstorming": {
       "source": "InternScience/DrClaw",
@@ -1267,6 +1351,12 @@
       "skillPath": "drclaw/local_skill_hub/science/physics/signal_processing/SKILL.md",
       "computedHash": "e5338f4dc0c163e3bd75520a6260c2fd0b317197cc8309d117d82da55c6471c9"
     },
+    "skill-creator": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "libs/cli/deepagents_cli/built_in_skills/skill-creator/SKILL.md",
+      "computedHash": "982bd0e6f248c0e6623149ecd36bcaba44ce2bc410138d8186b13c30268406b4"
+    },
     "smiles-to-cas-conversion": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -1284,6 +1374,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/gene/snp_functional_analysis/SKILL.md",
       "computedHash": "95bd19478242bff662b0bd81524e015a58081b2e6232422400d3db131d67a66c"
+    },
+    "social-media": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/content-builder-agent/skills/social-media/SKILL.md",
+      "computedHash": "ede71a9ae8de94bb9c4b633fb087a760b20ecb5fd4d0266f6ddd8934e03fbd84"
     },
     "ssh-essentials": {
       "source": "InternScience/DrClaw",
@@ -1332,6 +1428,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/chemistry/substructure_activity_search/SKILL.md",
       "computedHash": "5cf9c3303d06f10ac8a42e6b30e0da57f5410ed95836e4f9e33ff80ee28c803b"
+    },
+    "swarm": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "examples/repl_swarm/skills/swarm/SKILL.md",
+      "computedHash": "f800a4ebf3854040a1343984dae65a565a84a83fd33f32f6bd551809b6cbd30d"
     },
     "synthetic_biology_design": {
       "source": "InternScience/DrClaw",
@@ -1482,6 +1584,12 @@
       "sourceType": "github",
       "skillPath": "skills/web-artifacts-builder/SKILL.md",
       "computedHash": "d52d422ead3fa26859a6af129609841a8536b230a2d649f86e61771d063e05e2"
+    },
+    "web-research": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "libs/cli/examples/skills/web-research/SKILL.md",
+      "computedHash": "2b66d5db8c8d70474e70638f437f324fb3af3724b71bf8501e48c8004e70e677"
     },
     "web_literature_mining": {
       "source": "InternScience/DrClaw",
