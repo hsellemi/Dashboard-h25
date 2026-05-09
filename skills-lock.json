@@ -49,6 +49,18 @@
       "skillPath": "drclaw/local_skill_hub/science/drug/affinity_maturation/SKILL.md",
       "computedHash": "531ea2372b5d51655b3785f823b569f989052f7e4900bbf4c770844ece155f17"
     },
+    "ai-newsletters": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/ai-newsletters/SKILL.md",
+      "computedHash": "c73a7d51b9b9ca8a483d115b5aafe8019d4fecda846e98c044df4b9b4f15481f"
+    },
+    "ai-products": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/ai-products/SKILL.md",
+      "computedHash": "36c4b96995951e5b95def6ee62747326908ac8e6da59c156df1ff1bc8c033fe5"
+    },
     "alanine_scanning_pipeline": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -79,6 +91,12 @@
       "skillPath": "drclaw/local_skill_hub/science/protein/antibody_target_analysis/SKILL.md",
       "computedHash": "56c430bde3c8a8fdbf70b0261c89e5c435871924b1dcc5a45c41aa7487ae5ef3"
     },
+    "archive": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/archive/SKILL.md",
+      "computedHash": "e71c132176728b2188cf14759f2474b4fd4c1e897613395c6886db4ada857fd2"
+    },
     "arxiv-search": {
       "source": "langchain-ai/deepagents",
       "sourceType": "github",
@@ -90,6 +108,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/search/arxiv-watcher-1-0-0/SKILL.md",
       "computedHash": "38b02300543ff70f27ab0764ed4bf21d91d00b3d4c6a784c3dffaacbe27749ab"
+    },
+    "ask": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/ask/SKILL.md",
+      "computedHash": "6a095ad152024b20cb6ebc02a6ceaeb2c3d56edb9d848f33ad34d8c6ec0fd511"
     },
     "atc_drug_classification": {
       "source": "InternScience/DrClaw",
@@ -156,6 +180,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/drug/boltz2-binding-affinity/SKILL.md",
       "computedHash": "6f62db430c6f80ab4d890f1dfd5cc10ba90257716fd4fe41d618a06e35eaa570"
+    },
+    "brainstorm": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/brainstorm/SKILL.md",
+      "computedHash": "8b0be0a87545240d3c1d4c706d9b9ffb91658532dd8582c7653d502a3003be99"
     },
     "buoyancy-acceleration-calculation": {
       "source": "InternScience/DrClaw",
@@ -805,11 +835,23 @@
       "skillPath": "drclaw/local_skill_hub/science/protein/interproscan_pipeline/SKILL.md",
       "computedHash": "b1df27e26a9117200bbcca1c7ca88e8fadc95c64e60f38c6f3ca5a4b2ba62dcc"
     },
+    "json-canvas": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/json-canvas/SKILL.md",
+      "computedHash": "f9df7b411e950d9d4aeb6037e071a0860c1d7d12f1095d1a4fe00ab5e431eb60"
+    },
     "kegg-gene-search": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/gene/kegg-gene-search/SKILL.md",
       "computedHash": "08bf0dc29f12c6eca4cc68c8f7a7cc4a58c7cc68a431536ea08c218b49108b2b"
+    },
+    "kickoff": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/kickoff/SKILL.md",
+      "computedHash": "30efa777ec947e45d85789bc17ff40adf46c9a5759631999bf4f84d9e7f3159c"
     },
     "lab_protocol_from_literature": {
       "source": "InternScience/DrClaw",
@@ -1093,6 +1135,18 @@
       "skillPath": "drclaw/local_skill_hub/science/physics/nuclear_physics/SKILL.md",
       "computedHash": "450c02c43793adb6900203e964df02e7cec582716e4db9efbb6beac169427121"
     },
+    "obsidian-bases": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/obsidian-bases/SKILL.md",
+      "computedHash": "416b371ec1e5e308b7072db9d54b24d451fecac71d41ffa0487a88a0d7fed810"
+    },
+    "obsidian-markdown": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/obsidian-markdown/SKILL.md",
+      "computedHash": "7deb62e7df708b514a135fb0a9b84ba26f929b1ebeee4ae2a5e748fb2a5ba3a3"
+    },
     "oceanographic-seawater-properties": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -1140,6 +1194,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/drug/pandemic_preparedness/SKILL.md",
       "computedHash": "80f237bf7ee16a71575c24285a38fcb8196c9d578a44dc84646d38f2967f1188"
+    },
+    "parse-knowledge": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/parse-knowledge/SKILL.md",
+      "computedHash": "7da182c349fb979cef0329d3701ef5f8ab72df2d44910021f3689f15784be1fc"
     },
     "pdf": {
       "source": "anthropics/skills",
@@ -1369,6 +1429,12 @@
       "skillPath": "libs/cli/deepagents_cli/built_in_skills/remember/SKILL.md",
       "computedHash": "028ba3f60f046936429fec542d43aa2efbfa09573b26adfc0d02191f75d95b33"
     },
+    "research": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/research/SKILL.md",
+      "computedHash": "bc0d7559e2bafc7b31b8aab27d6ffaa32ab0f9b3cbfd19b1c062aedc1aba18bb"
+    },
     "schema-exploration": {
       "source": "langchain-ai/deepagents",
       "sourceType": "github",
@@ -1476,6 +1542,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/skills/ssh-long-session/SKILL.md",
       "computedHash": "e2e9d4296ae2c0b582728410bd08935c6d35839c427e657c4320330682c3469c"
+    },
+    "start-my-day": {
+      "source": "MarsWang42/OrbitOS",
+      "sourceType": "github",
+      "skillPath": "CN/.agents/skills/start-my-day/SKILL.md",
+      "computedHash": "96de3861ec3e38a3679d0ab318615d14ca3e643da8cf0656ea98f26912f31d14"
     },
     "stata-accounting-research": {
       "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
