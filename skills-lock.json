@@ -1,6 +1,30 @@
 {
   "version": 1,
   "skills": {
+    "Full-empirical-analysis-skill": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/00.1-Full-empirical-analysis-skill_Python/SKILL.md",
+      "computedHash": "2ab91b8850b45269f67efc1dcc2746987cc272b7f581167ad5d858428c324511"
+    },
+    "Full-empirical-analysis-skill-R": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/00.3-Full-empirical-analysis-skill_R/SKILL.md",
+      "computedHash": "da42f22b9494eb47ced6233495c3ea71f76b2f360820995db8f7bd7c9dda7c01"
+    },
+    "Full-empirical-analysis-skill-Stata": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/00.2-Full-empirical-analysis-skill_Stata/SKILL.md",
+      "computedHash": "d4f61a6b9bdf9e8a4aadce575de8ccee1bfba5d48e87245081ccccc1483c6140"
+    },
+    "StatsPAI_skill": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/00-Full-empirical-analysis-skill_StatsPAI/SKILL.md",
+      "computedHash": "63718d9207e985681857241fa258604d6e148266c18312eace39ab43b62a1b50"
+    },
     "academic-deep-research": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -79,6 +103,12 @@
       "skillPath": "drclaw/local_skill_hub/science/earth/atmospheric-science-calculations/SKILL.md",
       "computedHash": "b7bc654d8a152dc53d511c4994ec37d10950f5879a014fc3c838698b05947846"
     },
+    "avoid-ai-writing": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/47-conorbronsdon-avoid-ai-writing/SKILL.md",
+      "computedHash": "9adce28b7ccf99372f235c6151341d22527db68a7355a48187f232663dfc3a59"
+    },
     "binding_site_characterization": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -151,6 +181,12 @@
       "skillPath": "drclaw/local_skill_hub/science/chemistry/cas_compound_lookup/SKILL.md",
       "computedHash": "5356117f6ee3ff5ca51a4fe97e0a278f3ced8abcfd01d0d341246c753aefa31b"
     },
+    "causal-inference-mixtape": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/10-Jill0099-causal-inference-mixtape/SKILL.md",
+      "computedHash": "2a48c71b659652b6f0cdd39ae5a4c2c8cdaf606d7e9f0069cd1080e353153a99"
+    },
     "cell_line_assay_analysis": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -204,6 +240,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/chemistry/chemical_structure_comparison/SKILL.md",
       "computedHash": "b9bab1dd7cae6d31a55758e6504b932dc1cb9b99ad0b8788dba734a2cec21904"
+    },
+    "chinese-de-aigc": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/48-copaper-ai-chinese-de-aigc/SKILL.md",
+      "computedHash": "c5a64254b7e0770a75122a978ec4bd3823760ae3ca1d7f3d412a7c7bf338b5e7"
     },
     "chromosome_analysis": {
       "source": "InternScience/DrClaw",
@@ -342,6 +384,12 @@
       "sourceType": "github",
       "skillPath": "examples/nvidia_deep_agent/skills/data-visualization/SKILL.md",
       "computedHash": "2deb6dbf6802b268eb6482e3c2b8f400205c976aab404a43619fc458646b1b07"
+    },
+    "deslop": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/45-stephenturner-skill-deslop/SKILL.md",
+      "computedHash": "c39dee29db1ae3be71a0ab7778fabcf49a764105c1200290c9c551c8c03d6203"
     },
     "disease-reversal-prediction": {
       "source": "InternScience/DrClaw",
@@ -727,6 +775,18 @@
       "skillPath": "drclaw/local_skill_hub/proposal_writing/guide-updater/SKILL.md",
       "computedHash": "1e4abb0618f957a11bfbcc501e5c0a799d88a9bb1bd9cd2b8a76e62d947456a7"
     },
+    "humanize-chinese": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/49-voidborne-d-humanize-chinese/SKILL.md",
+      "computedHash": "0a161c83f2aeff4984cb6a15afd9d8804ebf197325916b2918a2dc5cbb7ae3e5"
+    },
+    "humanizer_academic": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/44-matsuikentaro1-humanizer_academic/SKILL.md",
+      "computedHash": "b82ff298621834f7949776ede20b6f1b7b2f7391e50cfe16a1befaa43fa95a30"
+    },
     "infectious_disease_analysis": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -763,6 +823,12 @@
       "skillPath": "libs/cli/examples/skills/langgraph-docs/SKILL.md",
       "computedHash": "623b8c10cbb70f70ea875d1b0901f0fb0e174a837c2d6d10707627a46ae30631"
     },
+    "latex-document": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/08-ndpvt-web-latex-document-skill/SKILL.md",
+      "computedHash": "30299783a3582188108a00998c7636e501271939633826c4e3f1f2098729fcf6"
+    },
     "lead_compound_optimization": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
@@ -774,6 +840,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/physics/length_measurement/SKILL.md",
       "computedHash": "31ef4d81e015aed661cdd46e2cbc9c92288a646715f7faa7f8b3ea2888316ab3"
+    },
+    "literature-review": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/36-taoyunudt-literature-review-skill/SKILL.md",
+      "computedHash": "1b7e10be7d16179772ea9ebf5adb2e19ca49af8f69a1c6c8acf920ddeae1bc14"
     },
     "local-skill-hub": {
       "source": "InternScience/DrClaw",
@@ -792,6 +864,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/report/manim/SKILL.md",
       "computedHash": "4c674bb03c11f94a589b1b8167ffc9132c50059f8f73eea8cd38c8f7b141a324"
+    },
+    "marginaleffects": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/39-vincentarelbundock-marginaleffects/SKILL.md",
+      "computedHash": "a371843db922a61f03148f87bb2749c2e296ffcc4eb038d6b0c14b5b04f95332"
     },
     "markdown-converter": {
       "source": "InternScience/DrClaw",
@@ -1255,6 +1333,12 @@
       "skillPath": "drclaw/local_skill_hub/search/pubmed-article-search/SKILL.md",
       "computedHash": "58ccffa1382309ec94acfbf591a830cedbd678a61dd30058cb28294a5d253a3f"
     },
+    "python-econ-computing": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/20-wenddymacro-python-econ-skill/SKILL.md",
+      "computedHash": "3078ed10c3512a1a5449fecda588bffe11e16f1b8eceeba50f37d389167d28aa"
+    },
     "query-writing": {
       "source": "langchain-ai/deepagents",
       "sourceType": "github",
@@ -1393,11 +1477,23 @@
       "skillPath": "drclaw/skills/ssh-long-session/SKILL.md",
       "computedHash": "e2e9d4296ae2c0b582728410bd08935c6d35839c427e657c4320330682c3469c"
     },
+    "stata-accounting-research": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/18-jusi-aalto-stata-accounting-research/SKILL.md",
+      "computedHash": "4ef75d43dcbf5b62a5c936e6545accb0d950a261c5d2f48225fa77b7539d6387"
+    },
     "statistical_error_analysis": {
       "source": "InternScience/DrClaw",
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/physics/statistical_error_analysis/SKILL.md",
       "computedHash": "fbd906a6610f9fbfe3707ebc2c2c65cc70fae608ab7c34e87f30f3a02cdd05f8"
+    },
+    "stop-slop": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "skills/46-hardikpandya-stop-slop/SKILL.md",
+      "computedHash": "16dc45d50bdc85d798ab1f57d698e32a681ae6c46922468d8860720ceada6ec4"
     },
     "string-ppi-enrichment": {
       "source": "InternScience/DrClaw",
@@ -1458,6 +1554,12 @@
       "sourceType": "github",
       "skillPath": "drclaw/local_skill_hub/science/gene/tcga-gene-expression/SKILL.md",
       "computedHash": "d08faebba3263f63daa08030451c1d45e0fd97fa4fe92b4380c6409efe3b3cd2"
+    },
+    "test-skill": {
+      "source": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "sourceType": "github",
+      "skillPath": "test-skill/SKILL.md",
+      "computedHash": "dd522eec0059378f194f5e6673ea95ae0c64e1f7578eef7e97d933598ae09f15"
     },
     "thermal_analysis": {
       "source": "InternScience/DrClaw",
